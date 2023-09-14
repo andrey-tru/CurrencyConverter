@@ -49,4 +49,3 @@ app.*.map.json
 **/*.g.dart
 **/*.freezed.dart
 **/injectable_init.config.dart
-*.env
